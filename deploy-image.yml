@@ -19,3 +19,4 @@
         volumes:
           - /storage/docker/mysql-data:/var/lib/mysql
         restart_policy: always 
+
